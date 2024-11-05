@@ -5,16 +5,26 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lgoebel&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=chartreuse-dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=lgoebel&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=chartreuse-dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lgoebel&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=flag-india"
+    srcset="https://github-readme-stats.vercel.app/api?username=lgoebel&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=flag-india"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
----
+<picture>
+  <source
+    width="450x" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lgoebel&hide_progress=true&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=chartreuse-dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    width="450x" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lgoebel&hide_progress=true&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=flag-india"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
-<img width="495x" src="https://github-readme-stats.vercel.app/api?username=lgoebel&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=chartreuse-dark"/></br>
+
