@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Lucas Goebel!
+## Hello there 👋 I'm Lucas Goebel!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pro.lcsgoebel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-a-goebel)
