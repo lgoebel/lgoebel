@@ -7,3 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgoebel&hide_progress=true&hide_title=false&hide_border=false&show_icons=true&count_private=true&line_height=21&theme=chartreuse-dark)
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<img align="right" src="https://komarev.com/ghpvc/?username=lgoebel&color=brightgreen&style=flat">
+</a>
